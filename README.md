@@ -1,3 +1,3 @@
-## _ED 2020.1_
+## _ED 2020.1 - The Huxley_
 
-Códigos desenvolvidos ao longo da disciplina de estrutura de dados.
+Códigos desenvolvidos no TheHuxley ao longo da disciplina de estrutura de dados.
